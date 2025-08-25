@@ -13,7 +13,7 @@ This project applies and compares different machine learning algorithms to predi
 ## 📂 Repository Contents
 - `Comparison_of_algorithms_of_credit_risk_for_prediction_.ipynb` — Main notebook with full workflow
 - `README.md` — Documentation (this file)
-- (Optional) `requirements.txt` — List of dependencies (see below)
+- `requirements.txt` — List of dependencies (see below)
 
 ---
 
